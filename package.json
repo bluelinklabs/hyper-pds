@@ -1,7 +1,7 @@
 {
-  "name": "ctzn",
-  "version": "0.35.0",
-  "description": "A hybrid p2p/federated social network mad science experiment",
+  "name": "@bluelinklabs/hyper-pds",
+  "version": "0.0.1",
+  "description": "A personal data server for the Hypercore data mesh",
   "main": "index.js",
   "type": "module",
   "bin": "bin.js",
